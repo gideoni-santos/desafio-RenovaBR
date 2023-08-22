@@ -40,40 +40,40 @@ Neste repositório, você vai encontrar:
 
 Como um resumo de todo o processo de desenvolvimento do projeto:
 
->**1. Objetivo do relatório**
-- *1.1 Sobre os dados utilizados*
+**1. Objetivo do relatório**
+>- *1.1 Sobre os dados utilizados*
 
->**2. Coleta dos dados**
-- *2.1 Impotação das bibliotecas*
-- *2.2 Coleta dos dados*
+**2. Coleta dos dados**
+>- *2.1 Impotação das bibliotecas*
+>- *2.2 Coleta dos dados*
 
->**3. Análise exploratória**
-- *3.1 Perfil do eleitorado*
-- *3.2 Resultados da eleição*
+**3. Análise exploratória**
+>- *3.1 Perfil do eleitorado*
+>- *3.2 Resultados da eleição*
 
->**4. Tratamento de dados**
->- **4.1 Perfil do Eleitorado**
-- *4.1.1 Definição de colunas necessárias*
-- *4.1.2 Renomeando colunas*
->- **4.2 Resultados das Eleições**
-- *4.2.1 Definição de colunas necessárias*
-- *4.2.2 Renomeando colunas*
-- *4.2.3 Tratamento de valores Nulos*
+**4. Tratamento de dados**
+- **4.1 Perfil do Eleitorado**
+>- *4.1.1 Definição de colunas necessárias*
+>- *4.1.2 Renomeando colunas*
+- **4.2 Resultados das Eleições**
+>- *4.2.1 Definição de colunas necessárias*
+>- *4.2.2 Renomeando colunas*
+>- *4.2.3 Tratamento de valores Nulos*
 - *4.3 Criando DataFrame auxiliares*
 
->**5. Correlações**
-- *5.1 Perfil do eleitorado*
-- *5.2 Resultados*
+**5. Correlações**
+>- *5.1 Perfil do eleitorado*
+>- *5.2 Resultados*
 
->**6. Análises iniciais**
-- *5.1 Votos nulos e brancos*
-- *5.2 Partido mais votado em São Paulo*
+**6. Análises iniciais**
+>- *5.1 Votos nulos e brancos*
+>- *5.2 Partido mais votado em São Paulo*
 
->**7. Analise Principais**
->- **Em qual município o candidato X foi mais votado / Qual candidato foi mais votado em cada município**
-- *7.1.1 Prefeito*
-- *7.1.2 Vereador*
->- **7.2 Qual perfil do eleitorado (faixa etária, gênero, grau de escolaridade e escolaridade) mais votou em cada candidato**
+**7. Analise Principais**
+- **Em qual município o candidato X foi mais votado / Qual candidato foi mais votado em cada município**
+>- *7.1.1 Prefeito*
+>- *7.1.2 Vereador*
+- **7.2 Qual perfil do eleitorado (faixa etária, gênero, grau de escolaridade e escolaridade) mais votou em cada candidato**
 >
 
 ## Contatos 📧
