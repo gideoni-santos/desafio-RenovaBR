@@ -74,7 +74,10 @@ Como um resumo de todo o processo de desenvolvimento do projeto:
 >- *7.1.1 Prefeito*
 >- *7.1.2 Vereador*
 - **7.2 Qual perfil do eleitorado (faixa etária, gênero, grau de escolaridade e escolaridade) mais votou em cada candidato**
->
+
+**8. Conclusões**
+
+**9. Recomendações para futuras analises**
 
 ## Contatos 📧
 
